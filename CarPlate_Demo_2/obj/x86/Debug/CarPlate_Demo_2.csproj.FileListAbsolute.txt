@@ -1,0 +1,11 @@
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\bin\Debug\CarPlate_Demo_2.exe
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\bin\Debug\CarPlate_Demo_2.pdb
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\bin\Debug\Emgu.CV.dll
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\bin\Debug\Emgu.CV.UI.dll
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\bin\Debug\Emgu.Util.dll
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\obj\x86\Debug\CarPlate_Demo_2.Form1.resources
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\obj\x86\Debug\CarPlate_Demo_2.Properties.Resources.resources
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\obj\x86\Debug\CarPlate_Demo_2.csproj.GenerateResource.Cache
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\obj\x86\Debug\CarPlate_Demo_2.exe
+c:\users\rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\obj\x86\Debug\CarPlate_Demo_2.pdb
+C:\Users\Rokeer\documents\visual studio 2010\Projects\CarPlate_Demo_2\CarPlate_Demo_2\obj\x86\Debug\CarPlate_Demo_2.csprojResolveAssemblyReference.cache
